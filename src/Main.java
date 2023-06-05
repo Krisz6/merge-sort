@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("First commit push");
+        }
+    public static boolean isSorted(int[] array){
+        return false;
     }
 }
